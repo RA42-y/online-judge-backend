@@ -1,4 +1,4 @@
-package com.ra.onlinejudge.model.entity;
+package com.ra.onlinejudge.judge.codesandbox.model;
 
 import lombok.Data;
 
